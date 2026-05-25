@@ -1,2 +1,2 @@
 # Analysis-via-Snowflake-Cloud-
-Analysis on Obesity dataset from the Snowflake Cloud using Decision Tree
+Analysis on dataset from the Snowflake Cloud using necessary Algorithms.
